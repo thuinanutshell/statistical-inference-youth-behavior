@@ -1,1 +1,3 @@
-# statistical-inference-youth-behavior
+# Statistical Inference on Youth's Behavior - Hypothesis Testing
+
+The report analyzes the dataset “Sample of Youth Risk Behavior Surveillance System (YRBSS)” which consists of 100 observations of 13 variables related to physical characteristics, school grades, and behavior of youth and adults. This report aims to evaluate the relationship between the number of physically active days and students’ age to make valid generalizations about the population of over 13,583 high school students who participated in the YRBSS 2013 (OpenIntro Statistics, p168). The conclusions should inform schools about suitable interventions targeting inactive student groups to promote a healthier student body. 
